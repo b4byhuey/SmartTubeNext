@@ -573,4 +573,5 @@
     <string name="unlock_high_bitrate_formats">Membuka format 1080p VP9 kecepatan bit tinggi</string>
     <string name="color_scheme_blue">Biru</string>
     <string name="color_scheme_dark_blue">Biru Tua</string>
+     <string name="player_speed_per_channel">Per setiap saluran</string>
 </resources>
